@@ -13,11 +13,11 @@ HƯỚNG DẪN - đọc rồi XÓA TOÀN BỘ các khối chú thích này sau k
 
 | | |
 |---|---|
-| Họ và tên | ___ |
-| MSSV | ___ |
+| Họ và tên | Nguyễn Huy Hùng |
+| MSSV | 2A202602990 |
 | Lớp / Khóa | K4 |
-| Repo GitHub | https://github.com/___/___ |
-| Ngày nộp | ___ |
+| Repo GitHub | https://github.com/nhhung18/K4-L3L4-Track2-Day21-NguyenHuyHung-2A202602990-CI-CD-for-AI-Systems.git |
+| Ngày nộp | 7/10 |
 
 ---
 
